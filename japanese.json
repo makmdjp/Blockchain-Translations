@@ -1470,7 +1470,7 @@
          "no_blocks":"この高さでは見つかりませんブロック"
       },
       "address":{
-         "invalid_hash_160":"申し訳ありませんが、これは有効なハッシュ160ではありません",
+         "invalid_hash_160":"これは有効なハッシュ160ではありません",
          "transactions":"取引",
          "sub_header":"アドレスは、他の人にbitcoinsを送信するために使用される識別子です。",
          "confirmed_only":"のみ確認",
