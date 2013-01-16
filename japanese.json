@@ -1528,16 +1528,16 @@
       "ip_log":{
          "port":"ポート",
          "last_connected":"最後に接続",
-         "total_unique":"合計一意のIPアドレス：",
-         "sub_header":"bitcoin blockchain.infoノードのリストは過去にに接続されています。",
-         "title":"Bitcoinノードのログ",
-         "meta_description":"bitcoinネットワークに接続されているすべてのIPアドレスのリスト。",
+         "total_unique":"ユニークなのIPアドレスの合計：",
+         "sub_header":"bitcoin blockchain.infoが過去に接続した事のあるノードのリスト",
+         "title":"ビットコインノードのログ",
+         "meta_description":"ビットコインネットワークに接続されているすべてのIPアドレスのリスト。",
          "previous":"前",
          "search":"検索",
          "location":"場所",
-         "next":"次の",
+         "next":"次",
          "hostname":"ホスト名",
-         "header":"Bitcoinノードのログ",
+         "header":"ビットコインノードのログ",
          "search_placeholder":"IPアドレスまたはホスト名"
       }
    },
